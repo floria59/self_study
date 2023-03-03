@@ -1,4 +1,4 @@
-package programmers.lv0;
+package lv0;
 
 public class test2 {
 
