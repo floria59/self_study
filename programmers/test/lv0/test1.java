@@ -1,7 +1,7 @@
 package lv0;
 
 // 배열 두배 만들기
-class Solution {
+class test1 {
     public int[] solution(int[] numbers) {
         
         int[] answer = new int[numbers.length];
